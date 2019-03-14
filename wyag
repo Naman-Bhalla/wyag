@@ -1,0 +1,5 @@
+#!/Users/naman/miniconda3/envs/libwyag/bin/python
+
+import libwyag
+
+libwyag.main()
